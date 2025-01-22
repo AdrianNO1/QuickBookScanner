@@ -67,5 +67,4 @@ openai>=1.3.0
 5. Feed the text to an LLM of your choice and get back to watching Netflix while your classmates are still on chapter 2! 🎬
 
 ---
-*Because life's too short to read uninteresting translated norwegain fiction* 🤘
-```
+*Because life's too short to read uninteresting translated Norwegian fiction - sorry not sorry, Trond!* 🤘
