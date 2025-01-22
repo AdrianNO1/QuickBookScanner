@@ -1,0 +1,7 @@
+bounding/*
+pages/*
+!pages/.gitkeep
+data/*
+credentials.json
+token.json
+total_text*.txt
